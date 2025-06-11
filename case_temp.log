@@ -1,0 +1,114 @@
+2025-06-04 16:37:00.995 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'NoneType'>
+2025-06-04 16:37:01.005 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'NoneType'>
+2025-06-04 16:37:01.015 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'NoneType'>
+2025-06-04 16:37:01.056 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'NoneType'>
+2025-06-04 16:37:01.066 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'NoneType'>
+2025-06-04 16:37:01.139 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 5c5ab326-8446-4c5b-aedb-93f7ca5b3c39
+2025-06-04 16:37:01.140 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: c12a7374-f6eb-41cd-a530-132fdf94b2e6
+2025-06-04 16:37:01.141 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 38fd737c-b73b-42a4-b634-35f882dbb7c4
+2025-06-04 16:37:01.141 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 08370192-042d-44c8-b071-6bc2c934a381
+2025-06-04 16:37:01.142 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: bf78ad02-8a0f-4030-b90a-cd66debddaa0
+2025-06-04 16:39:09.774 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'NoneType'>
+2025-06-04 16:39:09.785 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'NoneType'>
+2025-06-04 16:39:09.831 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'NoneType'>
+2025-06-04 16:39:09.842 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'NoneType'>
+2025-06-04 16:39:09.853 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'NoneType'>
+2025-06-04 16:39:09.920 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 1eb00e9b-a380-49a1-9cd8-6d303b894bcf
+2025-06-04 16:39:09.920 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 51e36d2c-8edd-48dd-b32f-d919273591c2
+2025-06-04 16:39:09.922 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 41fa497a-29e6-4ce9-b929-ac07ec33f1db
+2025-06-04 16:39:09.922 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 4736c800-3b79-4b01-828a-bed92b840ace
+2025-06-04 16:39:09.923 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 5bb0bf6f-a7e8-4c6c-8d8b-b6c3c573a698
+2025-06-04 16:58:05.904 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'NoneType'>
+2025-06-04 16:58:05.914 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'NoneType'>
+2025-06-04 16:58:05.955 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'NoneType'>
+2025-06-04 16:58:05.964 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'NoneType'>
+2025-06-04 16:58:05.973 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'NoneType'>
+2025-06-04 16:58:06.047 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 8c807ac5-11ac-4564-b25b-0be9974b7b7e
+2025-06-04 16:58:06.048 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: a1c6ad2d-67cc-451c-9c28-39e547093f57
+2025-06-04 16:58:06.049 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: ec76d1f1-97b8-40f0-8bb4-cb9c7780baf7
+2025-06-04 16:58:06.049 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: b19bba4f-703e-4b96-829f-9e354dc78f8f
+2025-06-04 16:58:06.050 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 8915d1df-8d2b-4e35-8021-265a31861b95
+2025-06-04 17:07:32.328 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:07:32.380 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:07:32.430 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:07:32.514 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:07:32.571 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:07:32.690 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: a016c453-3732-49a1-9ef3-a88d029de693
+2025-06-04 17:07:32.706 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: ff07004d-6f44-42eb-8f72-a1d6ab4022db
+2025-06-04 17:07:32.707 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: e0a578f8-3b6f-4e7f-85db-9fb453384c2d
+2025-06-04 17:07:32.708 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 0459b5a8-eb3c-4035-8ff7-de03b5132693
+2025-06-04 17:07:32.708 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: b42add5a-2d5c-480b-b794-535bc0f22c89
+2025-06-04 17:07:32.769 | INFO     | app.api.v1.case.case_ex_temp:receive_analysis_result:332 - 接收到大模型分析结果, 任务id: e0a578f8-3b6f-4e7f-85db-9fb453384c2d
+2025-06-04 17:07:32.780 | INFO     | app.api.v1.case.case_ex_temp:receive_analysis_result:332 - 接收到大模型分析结果, 任务id: a016c453-3732-49a1-9ef3-a88d029de693
+2025-06-04 17:13:32.220 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:13:32.282 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:13:32.342 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:13:32.433 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:13:32.493 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:13:32.555 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 14a9c20e-9abb-4eef-abb2-ea50a9870d14
+2025-06-04 17:13:32.571 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 64314c73-4080-47a4-a651-f53cc4d2d64b
+2025-06-04 17:13:32.571 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: ff4017bc-43e0-4d98-82e7-bc47b9f48fac
+2025-06-04 17:13:32.573 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 871fe911-ae19-49f5-9cc4-0eae353c5ee6
+2025-06-04 17:13:32.573 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 71e24f1e-63ad-4fe4-8c7f-26ca96051312
+2025-06-04 17:13:32.604 | INFO     | app.api.v1.case.case_ex_temp:receive_analysis_result:332 - 接收到大模型分析结果, 任务id: 14a9c20e-9abb-4eef-abb2-ea50a9870d14
+2025-06-04 17:13:32.608 | INFO     | app.api.v1.case.case_ex_temp:receive_analysis_result:332 - 接收到大模型分析结果, 任务id: ff4017bc-43e0-4d98-82e7-bc47b9f48fac
+2025-06-04 17:26:38.398 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:26:38.458 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:26:38.542 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:26:38.603 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:26:38.662 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:26:38.730 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 7755b692-d4e9-462a-bc6f-1a1188ef8479
+2025-06-04 17:26:38.746 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 224a0cad-3bca-43f0-8545-49dc48568a2b
+2025-06-04 17:26:38.747 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 1c052b16-bf53-4a60-a80d-3c2c873bacf4
+2025-06-04 17:26:38.747 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 383a9648-1324-4f31-925e-e1e21674291a
+2025-06-04 17:26:38.748 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 80501a38-261d-417b-8363-413ab554a12c
+2025-06-04 17:26:38.774 | INFO     | app.api.v1.case.case_ex_temp:receive_analysis_result:332 - 接收到大模型分析结果, 任务id: 7755b692-d4e9-462a-bc6f-1a1188ef8479
+2025-06-04 17:26:38.779 | INFO     | app.api.v1.case.case_ex_temp:receive_analysis_result:332 - 接收到大模型分析结果, 任务id: 383a9648-1324-4f31-925e-e1e21674291a
+2025-06-04 17:27:39.902 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:27:39.991 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:27:40.043 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:27:40.093 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:27:40.145 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:27:40.213 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 4938d2cc-2d2d-417b-b7f0-d258edbbec27
+2025-06-04 17:27:40.215 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 5d5c3170-5490-424b-8092-bb7b4802db75
+2025-06-04 17:27:40.215 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 2b806c13-25c7-447c-82f0-ad3bfe7f55b3
+2025-06-04 17:27:40.216 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 464ca839-25d3-411a-a708-919e2a95771f
+2025-06-04 17:27:40.217 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 6fa39780-4c4a-4bbf-8b74-b45e02e1c42b
+2025-06-04 17:27:40.252 | INFO     | app.api.v1.case.case_ex_temp:receive_analysis_result:332 - 接收到大模型分析结果, 任务id: 464ca839-25d3-411a-a708-919e2a95771f
+2025-06-04 17:27:40.268 | INFO     | app.api.v1.case.case_ex_temp:receive_analysis_result:332 - 接收到大模型分析结果, 任务id: 2b806c13-25c7-447c-82f0-ad3bfe7f55b3
+2025-06-04 17:34:41.259 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:34:41.354 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:34:41.419 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:34:41.484 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:34:41.537 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:34:41.680 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 44d38d47-8c66-4bed-ba11-5850f9d89752
+2025-06-04 17:34:41.681 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 3486d945-0dba-4b78-9f80-ce317f57bedf
+2025-06-04 17:34:41.682 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 26612271-270d-49ed-aa44-735804400b1e
+2025-06-04 17:34:41.682 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 19a6ee0c-e456-42a3-814c-a036cca2689d
+2025-06-04 17:34:41.683 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: 00562498-91cb-47d1-8926-f90688da691b
+2025-06-04 17:34:41.739 | INFO     | app.api.v1.case.case_ex_temp:receive_analysis_result:332 - 接收到大模型分析结果, 任务id: 26612271-270d-49ed-aa44-735804400b1e
+2025-06-04 17:34:41.746 | INFO     | app.api.v1.case.case_ex_temp:receive_analysis_result:332 - 接收到大模型分析结果, 任务id: 44d38d47-8c66-4bed-ba11-5850f9d89752
+2025-06-04 17:34:43.220 | INFO     | app.api.v1.case.case_ex_temp:receive_analysis_result:332 - 接收到大模型分析结果, 任务id: 3486d945-0dba-4b78-9f80-ce317f57bedf
+2025-06-04 17:34:44.621 | INFO     | app.api.v1.case.case_ex_temp:receive_analysis_result:332 - 接收到大模型分析结果, 任务id: 00562498-91cb-47d1-8926-f90688da691b
+2025-06-04 17:34:46.014 | INFO     | app.api.v1.case.case_ex_temp:receive_analysis_result:332 - 接收到大模型分析结果, 任务id: 19a6ee0c-e456-42a3-814c-a036cca2689d
+2025-06-04 17:34:46.024 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_result_recieve:260 - 合并分析结果
+2025-06-04 17:34:46.031 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_result_recieve:278 - [{'ajfl': {'big_type': '虚假网络投资理财类', 'small_type': '虚假投资理财'}, 'analysis_duration': 2.835728406906128, 'bilu_header': {'interviewee_name': '孙七', 'gender': '男', 'age': 38, 'birth_date': datetime.date(1987, 10, 2), 'id_number': '432501198710020017', 'household_registration': '湖南省娄底地区娄底市'}}, {'ajfl': {'big_type': '虚假网络投资理财类', 'small_type': '虚假投资理财'}, 'analysis_duration': 4.234311819076538, 'bilu_header': {'interviewee_name': '孙七', 'gender': '男', 'age': 38, 'birth_date': datetime.date(1987, 10, 2), 'id_number': '432501198710020017', 'household_registration': '湖南省娄底地区娄底市'}}, {'error': '字数太少,无需分析', 'analysis_duration': 0.0006933212280273438, 'bilu_header': {'interviewee_name': '孙七', 'gender': '男', 'age': 38, 'birth_date': datetime.date(1987, 10, 2), 'id_number': '432501198710020017', 'household_registration': '湖南省娄底地区娄底市'}}, {'ajfl': {'big_type': '虚假网络投资理财类', 'small_type': '虚假投资理财'}, 'analysis_duration': 1.4358210563659668, 'bilu_header': {'interviewee_name': '孙七', 'gender': '男', 'age': 38, 'birth_date': datetime.date(1987, 10, 2), 'id_number': '432501198710020017', 'household_registration': '湖南省娄底地区娄底市'}}, {'error': '字数太少,无需分析', 'analysis_duration': 0.0007770061492919922, 'bilu_header': {'interviewee_name': '孙七', 'gender': '男', 'age': 38, 'birth_date': datetime.date(1987, 10, 2), 'id_number': '432501198710020017', 'household_registration': '湖南省娄底地区娄底市'}}]
+2025-06-04 17:34:46.036 | ERROR    | app.api.v1.case.case_ex_temp:background_case_analysis_result_recieve:325 - 后台处理失败: Object of type date is not JSON serializable
+2025-06-04 17:36:26.340 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:36:26.404 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:36:26.468 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:36:26.531 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:36:26.594 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_request_post:73 - <class 'int'>
+2025-06-04 17:36:26.740 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: f515cdae-c2a5-4eeb-a8cb-1f75da88aa17
+2025-06-04 17:36:26.741 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: bedf9d36-37d4-4353-b8d5-309cf950ac72
+2025-06-04 17:36:26.742 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: eb2ee4f4-8547-4414-b8e0-b921a19aea04
+2025-06-04 17:36:26.742 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: da4abee8-9873-407f-9542-6154fd2a9861
+2025-06-04 17:36:26.743 | INFO     | app.api.v1.case.case_ex_temp:_async_send_request:361 - 调用成功, 任务id: d67274b0-6e56-40c5-9fab-7277bb754cb1
+2025-06-04 17:36:26.802 | INFO     | app.api.v1.case.case_ex_temp:receive_analysis_result:332 - 接收到大模型分析结果, 任务id: eb2ee4f4-8547-4414-b8e0-b921a19aea04
+2025-06-04 17:36:26.808 | INFO     | app.api.v1.case.case_ex_temp:receive_analysis_result:332 - 接收到大模型分析结果, 任务id: bedf9d36-37d4-4353-b8d5-309cf950ac72
+2025-06-04 17:36:37.272 | INFO     | app.api.v1.case.case_ex_temp:receive_analysis_result:332 - 接收到大模型分析结果, 任务id: d67274b0-6e56-40c5-9fab-7277bb754cb1
+2025-06-04 17:36:41.189 | INFO     | app.api.v1.case.case_ex_temp:receive_analysis_result:332 - 接收到大模型分析结果, 任务id: da4abee8-9873-407f-9542-6154fd2a9861
+2025-06-04 17:36:45.021 | INFO     | app.api.v1.case.case_ex_temp:receive_analysis_result:332 - 接收到大模型分析结果, 任务id: f515cdae-c2a5-4eeb-a8cb-1f75da88aa17
+2025-06-04 17:36:45.125 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_result_recieve:260 - 合并分析结果
+2025-06-04 17:36:45.132 | INFO     | app.api.v1.case.case_ex_temp:background_case_analysis_result_recieve:278 - [{'error': '字数太少,无需分析', 'analysis_duration': 0.0008246898651123047, 'bilu_header': {'interviewee_name': '张三', 'gender': '男', 'age': 38, 'birth_date': datetime.date(1987, 10, 2), 'id_number': '432501198710020017', 'household_registration': '湖南省娄底地区娄底市'}}, {'sjnr': {'sjfs': '张三在一月初的时候接到一个电话，对方自称有一个股票拉升的项目，邀请他参与投资。', 'sjgj': '电话', 'sjsj': '2024年1月初'}, 'ajfl': {'big_type': '虚假网络投资理财类', 'small_type': '虚假投资理财'}, 'victim_type': {'被害人身份': '中年男性', '手机品牌': '未知'}, 'analysis_duration': 10.426801443099976, 'bilu_header': {'interviewee_name': '张三', 'gender': '男', 'age': 38, 'birth_date': datetime.date(1987, 10, 2), 'id_number': '432501198710020017', 'household_registration': '湖南省娄底地区娄底市'}}, {'sjnr': {'sjfs': '张三在一月初的时候接到一个电话，对方询问他是否做股票，并向他推荐了一个股票拉升项目', 'sjgj': '电话', 'sjsj': '2024年1月初'}, 'ajfl': {'big_type': '虚假网络投资理财类', 'small_type': '虚假投资理财'}, 'victim_type': {'被害人身份': '中年男性', '手机品牌': '未知'}, 'analysis_duration': 14.343517303466797, 'bilu_header': {'interviewee_name': '张三', 'gender': '男', 'age': 38, 'birth_date': datetime.date(1987, 10, 2), 'id_number': '432501198710020017', 'household_registration': '湖南省娄底地区娄底市'}}, {'error': '字数太少,无需分析', 'analysis_duration': 0.0006728172302246094, 'bilu_header': {'interviewee_name': '张三', 'gender': '男', 'age': 38, 'birth_date': datetime.date(1987, 10, 2), 'id_number': '432501198710020017', 'household_registration': '湖南省娄底地区娄底市'}}, {'sjnr': {'sjfs': '张三在一月初接到一个电话，对方自称有股票拉升项目，并邀请他加入微信群进行投资', 'sjgj': '电话', 'sjsj': '2024年1月初'}, 'ajfl': {'big_type': '虚假网络投资理财类', 'small_type': '虚假投资理财'}, 'victim_type': {'被害人身份': '中年男性', '手机品牌': '未知'}, 'analysis_duration': 18.169617176055908, 'bilu_header': {'interviewee_name': '张三', 'gender': '男', 'age': 38, 'birth_date': datetime.date(1987, 10, 2), 'id_number': '432501198710020017', 'household_registration': '湖南省娄底地区娄底市'}}]
+2025-06-04 17:36:45.136 | ERROR    | app.api.v1.case.case_ex_temp:background_case_analysis_result_recieve:325 - 后台处理失败: Object of type date is not JSON serializable

@@ -9,6 +9,7 @@ from .depts import depts_router
 from .menus import menus_router
 from .roles import roles_router
 from .users import users_router
+from .case import case_router,case_router_ex,case_router_ex_temp
 
 v1_router = APIRouter()
 
@@ -19,3 +20,8 @@ v1_router.include_router(menus_router, prefix="/menu", dependencies=[DependPermi
 v1_router.include_router(apis_router, prefix="/api", dependencies=[DependPermisson])
 v1_router.include_router(depts_router, prefix="/dept", dependencies=[DependPermisson])
 v1_router.include_router(auditlog_router, prefix="/auditlog", dependencies=[DependPermisson])
+# 新增笔录接口
+v1_router.include_router(case_router, prefix="/case", dependencies=[DependPermisson])
+v1_router.include_router(case_router_ex, prefix="/case_ex")
+v1_router.include_router(case_router_ex_temp, prefix="/case_ex_temp")
+

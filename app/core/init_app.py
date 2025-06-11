@@ -72,6 +72,27 @@ async def init_superuser():
                 is_superuser=True,
             )
         )
+        # 创建普通用户 hangzhou（已注册但非超级用户）
+        await user_controller.create_user(
+            UserCreate(
+                username="hangzhou001",
+                email="hangzhou@example.com",
+                password="hangzhou001",  # 实际场景建议使用更安全的密码
+                is_active=True,
+                is_superuser=False,  # 普通用户无超级权限
+            )
+        )
+
+        # 创建普通用户 jinhua（已注册但非超级用户）
+        await user_controller.create_user(
+            UserCreate(
+                username="yiwu001",
+                email="jinhua@example.com",
+                password="yiwu001",
+                is_active=True,
+                is_superuser=False,
+            )
+        )
 
 
 async def init_menus():
@@ -167,6 +188,30 @@ async def init_menus():
             icon="material-symbols:featured-play-list-outline",
             is_hidden=False,
             component="/top-menu",
+            keepalive=False,
+            redirect="",
+        )
+        record_menu = await Menu.create(
+            menu_type=MenuType.CATALOG,
+            name="笔录分析",
+            path="/record",
+            order=3,
+            parent_id=0,
+            icon="mdi-account-edit",
+            is_hidden=False,
+            component="Layout",
+            keepalive=False,
+            redirect="",
+        )
+        await Menu.create(
+            menu_type=MenuType.MENU,
+            name="要素抽取",
+            path="extract",
+            order=1,
+            parent_id=record_menu.id,
+            icon="mdi-adobe-acrobat",
+            is_hidden=False,
+            component="/case-analysis",
             keepalive=False,
             redirect="",
         )

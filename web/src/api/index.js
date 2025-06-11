@@ -39,4 +39,8 @@ export default {
   deleteDept: (params = {}) => request.delete('/dept/delete', { params }),
   // auditlog
   getAuditLogList: (params = {}) => request.get('/auditlog/list', { params }),
+  // case-analysis
+  uploadCaseFile: (data = {}) => request.post('/case/upload', data),
+  getCaseByKey: (params = {}) => request.get('/case/get-by-key', { params }),
+  
 }

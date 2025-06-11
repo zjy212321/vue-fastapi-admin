@@ -116,6 +116,16 @@ export const basicRoutes = [
       title: '登录页',
     },
   },
+  // {
+  //   path: '/case-analysis',
+  //   name: 'CaseAnalysis',
+  //   component: () => import('@/views/case-analysis/index.vue'),
+  //   meta: {
+  //       title: '笔录分析',
+  //       icon: 'fas fa-file-contract',
+  //       breadcrumb: true
+  //   }
+  // },
 ]
 
 export const NOT_FOUND_ROUTE = {

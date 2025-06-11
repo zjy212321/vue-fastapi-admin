@@ -10,6 +10,8 @@ from app.core.init_app import (
     register_exceptions,
     register_routers,
 )
+from fastapi_limiter import FastAPILimiter
+
 
 try:
     from app.settings.config import settings
@@ -20,6 +22,8 @@ except ImportError:
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     await init_data()
+    # Initialize FastAPILimiter
+    await FastAPILimiter.init(settings.REDIS_CONNECTION)
     yield
     await Tortoise.close_connections()
 

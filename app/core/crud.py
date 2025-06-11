@@ -26,7 +26,7 @@ class CRUDBase(Generic[ModelType, CreateSchemaType, UpdateSchemaType]):
             obj_dict = obj_in
         else:
             obj_dict = obj_in.model_dump()
-        obj = self.model(**obj_dict)
+        obj = self.model(**obj_dict) 
         await obj.save()
         return obj
 
